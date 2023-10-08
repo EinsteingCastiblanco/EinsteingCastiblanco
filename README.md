@@ -18,8 +18,17 @@ Soy un desarrollador Full Stack con más de 2 años de experiencia práctica dis
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"></img>
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+### ⚙️ &nbsp;GitHub Analytics
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=EinsteingCastiblanco&theme=dark&hide_border=true&locale=es" alt="GitHub Streak" /></a>
+
+<p align="center">
+<a href="https://github.com/EinsteingCastiblanco">
+  
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EinsteingCastiblanco&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+ 
 <br />
 <br />
 
