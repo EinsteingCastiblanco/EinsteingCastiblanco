@@ -1,7 +1,7 @@
 <div align="center">
 <h2> Hola bienvenido a mi perfil <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
-  <div style="width:100%;height:0;padding-bottom:89%;position:relative;"><iframe src="https://giphy.com/embed/h408T6Y5GfmXBKW62l" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/codeit-official-coding-helloworld-codeit-h408T6Y5GfmXBKW62l">via GIPHY</a></p>
-
+ 
+<img src="https://giphy.com/embed/h408T6Y5GfmXBKW62l" width="100px" height="100px"/>
 <br />
 <br />
 Soy un desarrollador Full Stack con más de 2 años de experiencia práctica diseñando, desarrollando e implementando aplicaciones y soluciones utilizando una variedad de tecnologías y lenguajes de programación
@@ -17,7 +17,7 @@ Soy un desarrollador Full Stack con más de 2 años de experiencia práctica dis
 <br />
 <br />
 ### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/logo-php-blue?logo=PHP)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
