@@ -1,12 +1,14 @@
 <div align="center">
   <h2>¡Hola! Bienvenido a mi perfil </h2>
+</div> 
+<div>
+  <p>
+    Soy un desarrollador Full Stack con experiencia práctica diseñando, desarrollando e implementando aplicaciones y soluciones utilizando una variedad de tecnologías y lenguajes de programación.
+  </p>
 </div>
-<br />
-<p>
-  Soy un desarrollador Full Stack con experiencia práctica diseñando, desarrollando e implementando aplicaciones y soluciones utilizando una variedad de tecnologías y lenguajes de programación.
-</p>
-<br />
-### 📲 &nbsp;Contacto
+
+<h3>📲 Contacto</h3>
+<div style="display:flex; column-gap: 3px">
 <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30px" width="100px"/>
 </a> 
@@ -14,9 +16,10 @@
 <a href="mailto:jhoneinsteing@gmail.com" target="_blank" >
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" height="30px" width="100px"></img>
 </a>
-<br />
+</div>
 
-### 🛠 &nbsp;Tecnologías
+<h3>🖥️ Tecnologías</h3>
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -33,12 +36,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-<br />
-
-### ⚙️ &nbsp;Análisis de GitHub
-<div style="display:grid; grid-template-columns: 1fr 1fr;"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=EinsteingCastiblanco&theme=dark&hide_border=true&locale=es" alt="GitHub Streak" height="200px"/> 
+ 
+<h3>🖥️ Análisis de GitHub</h3> 
+<div style="display:flex; column-gap: 3px"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=EinsteingCastiblanco&theme=dark&hide_border=true&locale=es" alt="GitHub Streak" width="280px" height="130px"/> 
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EinsteingCastiblanco&hide_progress=true&theme=dark&hide_border=true&locale=es" alt="GitHub technology" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EinsteingCastiblanco&hide_progress=true&theme=dark&hide_border=true&locale=es" alt="GitHub technology" width="280px"  height="130px"/>
 </div> 
