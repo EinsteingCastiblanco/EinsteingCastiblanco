@@ -1,18 +1,20 @@
 <div align="center">
   <h2>¡Hola! Bienvenido a mi perfil </h2>
-</div> 
+</div>
+<br />
 <p>
   Soy un desarrollador Full Stack con experiencia práctica diseñando, desarrollando e implementando aplicaciones y soluciones utilizando una variedad de tecnologías y lenguajes de programación.
 </p>
-
+<br />
+### 📲 &nbsp;Contacto
 <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30px" width="100px"/>
 </a> 
 
-<a target="_blank" href="mailto:jhoneinsteing@gmail.com">
+<a href="mailto:jhoneinsteing@gmail.com" target="_blank" >
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" height="30px" width="100px"></img>
 </a>
- 
+<br />
 ### 🛠 &nbsp;Tecnologías
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -32,10 +34,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <br />
-<br />
 
 ### ⚙️ &nbsp;Análisis de GitHub
-<div style="display:grid; grid-template-columns: repeat(2, 1fr);"> 
+<div style="display:grid; grid-template-columns: 1fr 1fr;"> 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=EinsteingCastiblanco&theme=dark&hide_border=true&locale=es" alt="GitHub Streak" height="200px"/> 
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EinsteingCastiblanco&hide_progress=true&theme=dark&hide_border=true&locale=es" alt="GitHub technology" height="200px"/>
