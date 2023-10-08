@@ -1,7 +1,7 @@
 <div align="center">
   <h2>¡Hola! Bienvenido a mi perfil <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
   <div style="width:100%;height:0;padding-bottom:89%;position:relative;">
-    <img src="https://giphy.com/embed/MYI6NK4JOGpOzOriEg" alt="linkedin" style="margin-bottom: 5px;" />
+    
   </div>
 </div>
 
@@ -20,6 +20,7 @@ Soy un desarrollador Full Stack con más de 2 años de experiencia práctica dis
 
 <br />
 <br />
+
 ### 🛠 &nbsp;Tecnologías
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
