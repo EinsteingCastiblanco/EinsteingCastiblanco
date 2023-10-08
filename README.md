@@ -17,7 +17,7 @@ Soy un desarrollador Full Stack con más de 2 años de experiencia práctica dis
 <a target="_blank" href="mailto:jhoneinsteing@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"></img>
 </a>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=dark&hide_border=true&locale=es)](https://git.io/streak-stats)
+
 <br />
 <br />
 ### 🛠 &nbsp;Tecnologías
