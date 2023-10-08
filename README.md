@@ -1,7 +1,7 @@
 <div align="center">
   <h2>¡Hola! Bienvenido a mi perfil <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
   <div style="width:100%;height:0;padding-bottom:89%;position:relative;">
-    <iframe src="https://giphy.com/embed/MYI6NK4JOGpOzOriEg" width="480" height="96" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coding-coder-MYI6NK4JOGpOzOriEg">via GIPHY</a></p>
+    <img src="https://giphy.com/embed/MYI6NK4JOGpOzOriEg" alt="linkedin" style="margin-bottom: 5px;" />
 </div>
 
 <br />
@@ -19,7 +19,7 @@ Soy un desarrollador Full Stack con más de 2 años de experiencia práctica dis
 
 <br />
 <br />
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=dark&hide_border=true&locale=es)](https://git.io/streak-stats)
 ### 🛠 &nbsp;Tecnologías
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
