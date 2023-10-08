@@ -1,7 +1,7 @@
 <div align="center">
   <h2>¡Hola! Bienvenido a mi perfil <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30px" height="30px"></h2>
   <div style="width:100%;height:0;padding-bottom:89%;position:relative;">
-    <img src="https://media0.giphy.com/media/h408T6Y5GfmXBKW62l/200w.gif?cid=6c09b952iq8gue17a90vj952dnz0pm9ulvl9knb48ct4hpsw&ep=v1_gifs_search&rid=200w.gif&ct=g" width="100px">
+    <img src="https://media0.giphy.com/media/h408T6Y5GfmXBKW62l/200w.gif?cid=6c09b952iq8gue17a90vj952dnz0pm9ulvl9knb48ct4hpsw&ep=v1_gifs_search&rid=200w.gif&ct=g" width="200px">
   </div>
 </div>
 
@@ -11,22 +11,22 @@
 Soy un desarrollador Full Stack con más de 2 años de experiencia práctica diseñando, desarrollando e implementando aplicaciones y soluciones utilizando una variedad de tecnologías y lenguajes de programación.
 
 <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" width="200px"/>
 </a> 
 
 <a target="_blank" href="mailto:jhoneinsteing@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"></img>
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" width="200px"></img>
 </a>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=EinsteingCastiblanco&theme=dark&hide_border=true&locale=es" alt="GitHub Streak" /></a>
 
-<p align="center">
-<a href="https://github.com/EinsteingCastiblanco">
+
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=EinsteingCastiblanco&theme=dark&hide_border=true&locale=es" alt="GitHub Streak" /> 
   
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EinsteingCastiblanco&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/username=EinsteingCastiblanco&layout=compact&langs_count=8&theme=algolia"/>
+ 
 </p>
  
 <br />
