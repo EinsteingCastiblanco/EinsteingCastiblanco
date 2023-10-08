@@ -1,7 +1,7 @@
 <div align="center">
-  <h2>¡Hola! Bienvenido a mi perfil <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+  <h2>¡Hola! Bienvenido a mi perfil <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30px" height="30px"></h2>
   <div style="width:100%;height:0;padding-bottom:89%;position:relative;">
-    
+    <img src="https://media0.giphy.com/media/h408T6Y5GfmXBKW62l/200w.gif?cid=6c09b952iq8gue17a90vj952dnz0pm9ulvl9knb48ct4hpsw&ep=v1_gifs_search&rid=200w.gif&ct=g" width="30">
   </div>
 </div>
 
@@ -17,6 +17,8 @@ Soy un desarrollador Full Stack con más de 2 años de experiencia práctica dis
 <a target="_blank" href="mailto:jhoneinsteing@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"></img>
 </a>
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=&theme=dark&hide_border=true&locale=es" alt="GitHub Streak" /></a>
 
 <br />
 <br />
